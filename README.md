@@ -2,6 +2,14 @@
 
 A powerful Flutter package for advanced media editing capabilities using FFmpeg. This package provides comprehensive tools for editing images and videos with features like text overlays, emoji/sticker placement, color filters, speed adjustments, and more.
 
+## 🚀 Production Ready
+
+This media editing module is actively used in production and powers the media editing features of **[Blogs Chat](https://play.google.com/store/apps/details?id=com.q8intouch.hareem.new)** - a popular social media app available on Google Play Store with over 10K+ downloads. The app enables users to create engaging content with live streaming, chat, reels, posts, and advanced media editing capabilities.
+
+## 📸 Screenshots
+
+Below are real screenshots from the Blogs Chat app, powered by this media editor module:
+
 ## 🎯 Features
 
 ### 📸 Image Editing
@@ -15,7 +23,7 @@ A powerful Flutter package for advanced media editing capabilities using FFmpeg.
 ### 🎬 Video Editing
 - **Speed Control**: Adjust video playback speed (0.5x, 0.75x, 1x, 2x, 3x)
 - **Text Overlays**: Add animated text overlays to videos
-- **Emoji/Sticker Animation**: Place animated emojis and stickers on videos
+- **Emoji Animation**: Place animated emojis and stickers on videos
 - **Color Filters**: Apply color effects to videos with opacity control
 - **Video Rotation**: Rotate videos using FFmpeg transpose filters
 - **Video Splitting**: Split videos into segments
@@ -256,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - FFmpeg team for the powerful media processing library
-- Flutter team for the amazing framework
+- Flutter team for the framework
 - All contributors and users of this package
 
 ## 📞 Support
@@ -267,6 +275,8 @@ If you encounter any issues or have questions:
 - Check the documentation
 - Review the example code
 
+> **Note:**
+> The codebase is well-structured and modular, designed for clarity and extensibility. However, some functionalities may have issues or bugs, as this project is evolving. These will be addressed and improved over time. The main focus of this repository is to inspire the community with the ideas, patterns, and techniques used here—feel free to explore, adapt, and build upon them!
 ---
 
 **Made with ❤️ for the Flutter community**
