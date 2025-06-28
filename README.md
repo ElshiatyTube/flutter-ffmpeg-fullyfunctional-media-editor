@@ -6,10 +6,6 @@ A powerful Flutter package for advanced media editing capabilities using FFmpeg.
 
 This media editing module is actively used in production and powers the media editing features of **[Blogs Chat](https://play.google.com/store/apps/details?id=com.q8intouch.hareem.new)** - a popular social media app available on Google Play Store with over 10K+ downloads. The app enables users to create engaging content with live streaming, chat, reels, posts, and advanced media editing capabilities.
 
-## 📸 Screenshots
-
-Below are real screenshots from the Blogs Chat app, powered by this media editor module:
-
 ## 🎯 Features
 
 ### 📸 Image Editing
@@ -279,4 +275,15 @@ If you encounter any issues or have questions:
 > The codebase is well-structured and modular, designed for clarity and extensibility. However, some functionalities may have issues or bugs, as this project is evolving. These will be addressed and improved over time. The main focus of this repository is to inspire the community with the ideas, patterns, and techniques used here—feel free to explore, adapt, and build upon them!
 ---
 
+## 📸 Screenshots
+
+Below are real screenshots from the Blogs Chat app, powered by this media editor module:
+![44](https://github.com/user-attachments/assets/10547cff-9f6c-4014-919f-389c248bdd64)
+![33](https://github.com/user-attachments/assets/e1171f9c-de7c-4534-b525-7fc0e8cd46d0)
+![22](https://github.com/user-attachments/assets/f796b63e-f736-4a6c-88a2-7b7dc0025f17)
+![11](https://github.com/user-attachments/assets/8dd53937-f34b-4777-944a-39fe470662ef)
+![55](https://github.com/user-attachments/assets/27fb139a-5c9f-42f3-bf0f-7a24b5d0637c)
+
+
 **Made with ❤️ for the Flutter community**
+
