@@ -199,32 +199,6 @@ final speedAdjustedVideo = await FfmpegFuncs.mergeVideoSpeed(
 <string>This app needs photo library access to select and save media</string>
 ```
 
-## 🎨 Customization
-
-### Custom Color Filters
-```dart
-enum CustomColorFilter {
-  custom([Colors.purple, Colors.transparent], 'purple', Colors.purple);
-  
-  final List<Color> filter;
-  final String name;
-  final Color orgColor;
-  const CustomColorFilter(this.filter, this.name, this.orgColor);
-}
-```
-
-### Custom Text Styles
-```dart
-// Customize text appearance
-TextInfo customText = TextInfo(
-  text: "Custom Text",
-  fontFamily: "CustomFont",
-  fontSize: 24,
-  color: Colors.red,
-  fontWeight: FontWeight.w900,
-);
-```
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
