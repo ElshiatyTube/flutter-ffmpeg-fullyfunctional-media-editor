@@ -107,35 +107,3 @@ enum CameraStatus {
   error,
 }
 
-//capture image states
-class SuccessTakeImageState extends CameraState {
-  final bool isFront;
-
-  SuccessTakeImageState({required this.isFront});
-}
-class SetCameraPreviewState extends CameraState {}
-
-
-class RefreshState extends CameraState {}
-//recording video states
-class LoadingVideoRecordingState extends CameraState {
-  const LoadingVideoRecordingState();
-}
-class StartVideoRecordingState extends CameraState {}
-class StopVideoRecordingState extends CameraState {
-  @override
-  final bool hasSound;
-  @override
-  final bool isFront;
-  const StopVideoRecordingState({required this.hasSound,required this.isFront});
-}
-
-//flash mode states
-class FlashModeState extends CameraState {
-  final FlashMode mode;
-  const FlashModeState({required this.mode});
-}
-
-class ChangeCameraPreviewState extends CameraState {}
-
-
